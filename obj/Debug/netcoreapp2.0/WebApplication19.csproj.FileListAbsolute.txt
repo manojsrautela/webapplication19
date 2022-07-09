@@ -1,0 +1,15 @@
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\bin\Debug\netcoreapp2.0\WebApplication19.deps.json
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\bin\Debug\netcoreapp2.0\WebApplication19.runtimeconfig.json
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\bin\Debug\netcoreapp2.0\WebApplication19.runtimeconfig.dev.json
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\bin\Debug\netcoreapp2.0\WebApplication19.dll
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\bin\Debug\netcoreapp2.0\WebApplication19.pdb
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\obj\Debug\netcoreapp2.0\WebApplication19.csproj.AssemblyReference.cache
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\obj\Debug\netcoreapp2.0\WebApplication19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\obj\Debug\netcoreapp2.0\WebApplication19.AssemblyInfoInputs.cache
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\obj\Debug\netcoreapp2.0\WebApplication19.AssemblyInfo.cs
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\obj\Debug\netcoreapp2.0\WebApplication19.csproj.CoreCompileInputs.cache
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\obj\Debug\netcoreapp2.0\WebApplication19.dll
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\obj\Debug\netcoreapp2.0\WebApplication19.pdb
+C:\Users\sulak\source\repos\WebApplication19\WebApplication19\obj\Debug\netcoreapp2.0\WebApplication19.genruntimeconfig.cache
